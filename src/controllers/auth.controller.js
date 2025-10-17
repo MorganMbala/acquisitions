@@ -35,7 +35,7 @@ export const signup = async (req, res, next) => {
                 id: user.id,
                 name: user.name,
                 email: user.email,
-                role: user.role,
+                role,
             },
         });
     } catch (e) {
