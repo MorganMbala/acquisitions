@@ -1,2 +1,22 @@
 {"level":"info","message":"Hello from Acquisitions !","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [14/Oct/2025:19:17:16 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions !","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Oct/2025:19:46:09 +0000] \"GET / HTTP/1.1\" 200 25 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Safari/605.1.15\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Oct/2025:19:46:09 +0000] \"GET /apple-touch-icon-precomposed.png HTTP/1.1\" 404 171 \"-\" \"com.apple.WebKit.Networking/21622.1.22.11.15 Network/5569.1.3 macOS/26.0.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Oct/2025:19:46:09 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"com.apple.WebKit.Networking/21622.1.22.11.15 Network/5569.1.3 macOS/26.0.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Oct/2025:19:46:09 +0000] \"GET /apple-touch-icon.png HTTP/1.1\" 404 159 \"-\" \"com.apple.WebKit.Networking/21622.1.22.11.15 Network/5569.1.3 macOS/26.0.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Oct/2025:19:46:12 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"com.apple.WebKit.Networking/21622.1.22.11.15 Network/5569.1.3 macOS/26.0.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/apple-touch-icon-precomposed.png","service":"acquisitions-api","userAgent":"com.apple.WebKit.Networking/21622.1.22.11.15 Network/5569.1.3 macOS/26.0.1"}
+{"level":"info","message":"::1 - - [17/Oct/2025:19:46:12 +0000] \"GET /apple-touch-icon-precomposed.png HTTP/1.1\" 403 51 \"-\" \"com.apple.WebKit.Networking/21622.1.22.11.15 Network/5569.1.3 macOS/26.0.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/apple-touch-icon.png","service":"acquisitions-api","userAgent":"com.apple.WebKit.Networking/21622.1.22.11.15 Network/5569.1.3 macOS/26.0.1"}
+{"level":"info","message":"::1 - - [17/Oct/2025:19:46:12 +0000] \"GET /apple-touch-icon.png HTTP/1.1\" 403 51 \"-\" \"com.apple.WebKit.Networking/21622.1.22.11.15 Network/5569.1.3 macOS/26.0.1\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions !","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Oct/2025:19:47:37 +0000] \"GET / HTTP/1.1\" 200 25 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Oct/2025:19:48:39 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Oct/2025:19:50:21 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Oct/2025:19:50:22 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Oct/2025:19:50:22 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Oct/2025:19:50:23 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Oct/2025:19:50:24 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [17/Oct/2025:19:50:24 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
